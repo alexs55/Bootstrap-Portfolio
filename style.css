@@ -9,17 +9,18 @@
 
 
 body {
-    background-image:url(https://github.com/alexs55/Basic-Portfolio/blob/master/assets/images/img7.jpg?raw=true);
+    background-image:url(https://github.com/alexs55/Bootstrap-Portfolio/blob/master/images/Untitled_Artwork.jpg?raw=true);
 }
 
 a {
-    color: white;
+    color: grey;
     font-weight: bold;
 }
 
 #backgroundw {
-    background-color: white;
-    border-style: outset;
+    background-color: #eeeeee;
+    border-radius: 25px;
+   
 
 }
 
@@ -35,9 +36,11 @@ p {
 
 }
 
-.floatMe{
+.floatMe {
     float: left;
     padding: 20px;
+    border-radius: 35px;
+    
 }
 
 
@@ -61,9 +64,6 @@ p {
     background-color: deepskyblue;
     color: ivory;
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.jumbotron:hover {
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
