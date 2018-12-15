@@ -20,6 +20,10 @@ a {
 #backgroundw {
     background-color: #eeeeee;
     border-radius: 25px;
+    height: 650px;
+   
+    
+    
    
 
 }
@@ -53,6 +57,7 @@ p {
     text-align: center;
     font-size: 32px;
     background-color: deepskyblue;
+    margin: 0px 10px;
 }
 
 #caption:hover {
@@ -65,5 +70,9 @@ p {
     color: ivory;
     font-weight: bold;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#pictureframe {
+    margin: 0px 10px;
 }
 
